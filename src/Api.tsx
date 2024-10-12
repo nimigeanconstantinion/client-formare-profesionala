@@ -17,6 +17,8 @@ export default class Api{
     api<T, U>(path: string, method = "GET", body: U): Promise<HttpResponse<T>> {
 
 
+
+
         const url= "http://78.96.25.131:5000"+ path;
 
         // const url = path;
