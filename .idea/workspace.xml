@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f43995e6-4022-44bb-9704-3d04798b4adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/DetaliiCursant/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DetaliiCursant/indexstyle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GridPeriodaSomaj/GridPerioadaSomaj.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GridPeriodaSomaj/RowPerSom.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GridStare/GridStare.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GridStare/RowStare.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LocalitateSrc/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TestGrdDinamic/DynamicGrid_2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TestGrdDinamic/indexRow.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build_push_version.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build_push_version.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Api.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Adresa/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Adresa/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cursant/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cursant/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cursant/indexstyle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cursant/indexstyle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchableDropDown/index_simple.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchableDropDown/index_simple.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Cursant.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Cursant.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Persoana.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Persoana.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +94,8 @@
       <workItem from="1728655050599" duration="61000" />
       <workItem from="1728655454281" duration="150000" />
       <workItem from="1728656156204" duration="740000" />
-      <workItem from="1728725350804" duration="895000" />
+      <workItem from="1728725350804" duration="1666000" />
+      <workItem from="1728728019618" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="commit 11102024 002">
       <option name="closed" value="true" />
