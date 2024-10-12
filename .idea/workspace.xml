@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f43995e6-4022-44bb-9704-3d04798b4adb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/DetaliiCursant/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DetaliiCursant/indexstyle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GridPeriodaSomaj/GridPerioadaSomaj.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GridPeriodaSomaj/RowPerSom.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GridStare/GridStare.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GridStare/RowStare.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LocalitateSrc/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestGrdDinamic/DynamicGrid_2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestGrdDinamic/indexRow.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_push_version.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build_push_version.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Api.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Api.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Adresa/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Adresa/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cursant/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cursant/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cursant/indexstyle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cursant/indexstyle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchableDropDown/index_simple.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchableDropDown/index_simple.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Cursant.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Cursant.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Persoana.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Persoana.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gHOIT6OtCgsKUNJ2OlG7eOQ9F7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/40722/Desktop/work projects/proiect-formare-profesionala/client-cfp - K&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\40722\\Desktop\\work projects\\proiect-formare-profesionala\\client-cfp - K\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\40722\Desktop\work projects\proiect-formare-profesionala\client-cfp" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\components\SearchableDropDown" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\components\TestCompDynamic" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\store\curs" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\components\Home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\components" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src\components\Home" />
+      <recent name="C:\Users\40722\Desktop\work projects\client-cfp\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f43995e6-4022-44bb-9704-3d04798b4adb" name="Changes" comment="" />
+      <created>1715350956603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715350956603</updated>
+      <workItem from="1715350957769" duration="14783000" />
+      <workItem from="1715628239383" duration="10777000" />
+      <workItem from="1715937461185" duration="47794000" />
+      <workItem from="1716983316894" duration="63311000" />
+      <workItem from="1717414123779" duration="1435000" />
+      <workItem from="1717434772220" duration="21628000" />
+      <workItem from="1717662143507" duration="1875000" />
+      <workItem from="1718250326266" duration="15210000" />
+      <workItem from="1718338990606" duration="60744000" />
+      <workItem from="1719319979626" duration="97331000" />
+      <workItem from="1719998204829" duration="43663000" />
+      <workItem from="1720522520450" duration="25151000" />
+      <workItem from="1720672585247" duration="7303000" />
+      <workItem from="1720696573237" duration="45199000" />
+      <workItem from="1721277715172" duration="387000" />
+      <workItem from="1722941666077" duration="638000" />
+      <workItem from="1727432323985" duration="447000" />
+      <workItem from="1727797302266" duration="632000" />
+      <workItem from="1728543486090" duration="2990000" />
+      <workItem from="1728648114709" duration="2938000" />
+      <workItem from="1728654108530" duration="299000" />
+      <workItem from="1728655050599" duration="61000" />
+      <workItem from="1728655454281" duration="150000" />
+      <workItem from="1728656156204" duration="740000" />
+      <workItem from="1728725350804" duration="895000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit 11102024 002">
+      <option name="closed" value="true" />
+      <created>1728653105869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728653105869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 11102024 002" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 11102024 002" />
+  </component>
+</project>

@@ -1,0 +1,170 @@
+.grid-item {
+    background-color: #f0f0f0;
+    /*border: 1px solid #ccc;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);*/
+    /*padding: 10px;*/
+    /*height: 90% !important;*/
+}
+
+/*.column3 {*/
+/*    flex: none !important;*/
+/*    width: 10vw !important;*/
+/*}*/
+/*.custom-column-gap > .MuiGrid-item {*/
+/*    margin-left: 7px !important; !* spațiul dintre coloane *!*/
+/*    width: 100%;*/
+
+/*}*/
+/*div.MuiBox-root.css-0{*/
+/*    width: 95% !important;*/
+/*    height: 100% !important;*/
+/*}*/
+.texted,.datepk,.divR{
+    width:100%;
+    height:100%;
+    margin-left: 5px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    font-size: .6em;
+    color: #282c34;
+    display: flex;
+    justify-items: flex-start;
+    align-items: center;
+}
+.datepk{
+    width: 100%;
+    position: relative;
+
+}
+input[type=date]::-webkit-calendar-picker-indicator {
+    margin-left: 0px;
+    position: absolute;
+    right: 0px;
+}
+.texted{
+    padding: 1px;
+    width: 100% !important;
+}
+
+/*.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.css-1sir9cm-MuiPaper-root{*/
+/*    height: 95% !important;*/
+/*}*/
+
+
+/*.p-calendar{*/
+/*    background-color: #f2f5f6 !important;*/
+/*    border-radius: 4px !important;*/
+
+
+/*}*/
+
+/*span .p-component{*/
+/*    background-color: #f2f5f6 !important;*/
+/*    height: 100% !important;*/
+/*    border-radius: 4px !important;*/
+
+/*}*/
+
+
+/*.p-datepicker-calendar	{*/
+/*    background-color: lightblue !important; !* Schimbă această culoare cu ce dorești *!*/
+/*    width: 30% !important;*/
+/*    height: 40% !important;*/
+
+/*}*/
+.headerGrd{
+    background-color: #B38EC4;
+    display: flex;;
+    align-items: center;
+}
+.divRow{
+    height: 100% !important;
+    line-height: 1em;
+}
+/*.p-datepicker .p-datepicker-calendar {*/
+/*    background-color: lightblue !important; !* Schimbă această culoare cu ce dorești *!*/
+/*}*/
+
+/*.p-datepicker .p-datepicker-calendar td {*/
+/*    background-color: lightblue !important; !* Schimbă și această culoare dacă este necesar *!*/
+/*}*/
+
+/*.p-datepicker .p-datepicker-calendar td:hover {*/
+/*    background-color: #84baf8 !important; !* Culoarea de fundal la hover *!*/
+/*}*/
+
+/*.MuiOutlinedInput-notchedOutline .css-1d3z3hw-MuiOutlinedInput-notchedOutline{*/
+/*    height: 100% !important;*/
+/*}*/
+
+
+/*.MuiInputBase-root {*/
+/*    height: 100% !important;*/
+/*}*/
+
+/*fieldset{*/
+/*    height: 100% !important;*/
+/*    background-color: #f0f0f0;*/
+/*    padding:0px;*/
+/*    margin-top:0px;*/
+/*}*/
+
+.custom-grid-item {
+    height: 35px; /* Ajustează această valoare după cum dorești */
+    display: flex;
+    align-items: center;
+    padding:0px;
+    line-height: 10px;
+}
+/*!*div .MuiInputBase-root{*!*/
+/*!*    height: 48px !important;*!*/
+/*!*    !*padding: 2px;*!*!*/
+/*!*}*!*/
+
+/*!*.divRow div.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-wb57ya-MuiFormControl-root-MuiTextField-root{*!*/
+/*!*    height: 100% !important;*!*/
+/*!*}*!*/
+
+/*!*.MuiInputBase-input.MuiOutlinedInput-input.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{*!*/
+/*!*    height: 100% !important;*!*/
+/*!*}*!*/
+
+/*!*.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root{*!*/
+/*!*    height: 100% !important;*!*/
+
+/*!*}*!*/
+
+/*!*div.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-wb57ya-MuiFormControl-root-MuiTextField-root{*!*/
+/*!*    height: 100% !important;*!*/
+
+/*!*}*!*/
+
+
+
+
+/*!*.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.css-1sir9cm-MuiPaper-root{*!*/
+/*!*    display: flex;*!*/
+/*!*    flex-direction: row;*!*/
+/*!*    align-items: center;*!*/
+/*!*    justify-content: left;*!*/
+/*!*    font-size: .6em;*!*/
+/*!*    !*padding: 5%;*!*!*/
+
+/*!*}*!*/
+/*!*.p-calendar.p-component.p-inputwrapper.p-inputwrapper-filled{*!*/
+/*!*    height: 95% !important;*!*/
+/*!*    font-size: .6em;*!*/
+/*!*}*!*/
+/*!*.p-calendar.p-component.p-inputwrapper{*!*/
+/*!*    height: 95% !important;*!*/
+/*!*    font-size: .6em;*!*/
+/*!*}*!*/
+
+/*!*.p-inputtext.p-component.p-inputtext.p-component{*!*/
+/*!*    font-size: 1em;*!*/
+
+/*!*}*!*/
+

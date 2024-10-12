@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scrollbar-width: thin !important; /* Or 'thin', 'none' */
+
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.p-autocomplete-items-wrapper{
+  background-color: #ebbc74ff !important;
+  overflow-x: auto;
+}
+
+.py-2.px-3{
+  /*background-color: #d9d2d2 !important;*/
+
+}
+
+.flex.itm{
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: center;
+  /*background-color: #d9d2d2;*/
+}
+
+div.divcode{
+  width: 130px !important;
+  color: #b74323ff;
+;
+}
+
+div.divname{
+  width: 300px !important;
+  overflow-x: auto !important;
+  scrollbar-width: thin !important; /* Or 'thin', 'none' */
+  margin:0px 5px 0px 5px;
+
+}
+
+
+.p-autocomplete-items-wrapper{
+  overflow-x: scroll !important;
+  scrollbar-width: thin !important; /* Or 'thin', 'none' */
+  background-color: #B38EC4;
+}
+
+.p-dropdown-items-wrapper{
+  scrollbar-width: thin !important; /* Or 'thin', 'none' */
+
+}
+.p-dropdown-items-wrapper{
+  background-color: #ebbc74ff;
+  /*background-color: #c48080;*/
+  /*min-width: 200px;*/
+}
+.p-autocomplete-item:hover{
+  background-color: #d5d4d2;
+}
+
+.p-autocomplete-footer{
+  background-color: #3a2f2dff;
+  color: #ebbc74ff;
+
+}
+
+.p-dropdown-item:hover {
+  background-color: #d5d4d2 !important;
+
+}
+
+li.p-dropdown-item{
+
+}
+
+div.p-dropdown-pannel {
+  background-color: #aab0b0 !important;
+}
+
+.flex.itm.add div.divname{
+  width:100px !important;
+}
+
+ div.divsup{
+  margin: auto 3px !important;
+
+}
+
+/*.fldinput.p-dropdown-items-wrapper{*/
+/*  !*width: 200px !important;*!*/
+/*  min-width: 120px !important;*/
+/*}*/
+
+/*.fldinput {*/
+/*  width: 200px !important;*/
+/*  min-width: 200px !important;*/
+/*}*/
