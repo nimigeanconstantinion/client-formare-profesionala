@@ -17,7 +17,7 @@ export default class Api{
     api<T, U>(path: string, method = "GET", body: U): Promise<HttpResponse<T>> {
 
 
-        const url= "http://192.168.0.112:5000"+ path;
+        const url= "http://formare:5000"+ path;
 
         // const url = path;
 
