@@ -15,7 +15,7 @@ const Index:React.FC<void>=()=> {
 
     return (
         <>
-            <ComboSrcLocalitati data={} defaultObj={} returnFunction={} isrw={false}/>
+            {/*<ComboSrcLocalitati data={} defaultObj={} returnFunction={} isrw={false}/>*/}
         </>
     )
 }
