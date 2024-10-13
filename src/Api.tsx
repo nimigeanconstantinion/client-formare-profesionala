@@ -19,7 +19,7 @@ export default class Api{
 
 
 
-        const url= "http://192.168.0.112:5000"+ path;
+        const url= "http://formare:5000"+ path;
 
         // const url = path;
 
