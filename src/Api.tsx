@@ -19,7 +19,7 @@ export default class Api{
 
 
 
-        const url= "http://http://78.96.25.131:5000"+ path;
+        const url= "http://78.96.25.131:5000"+ path;
 
         // const url = path;
 
